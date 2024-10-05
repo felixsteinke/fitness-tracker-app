@@ -1,0 +1,10 @@
+# Editor
+.idea/
+.vscode/
+
+# MacOS
+**/.DS_Store
+
+# NPM
+**/node_modules/
+**/npm-debug.*
